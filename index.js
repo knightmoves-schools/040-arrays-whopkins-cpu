@@ -1,2 +1,3 @@
-var iceCreamFlavors = ["chcolate, vanilla, twist"];
+var iceCreamFlavors = [chcolate, vanilla, twist];
 document.getElementById("result").innerHTML = iceCreamFlavors;
+
